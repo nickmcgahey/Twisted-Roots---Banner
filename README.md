@@ -27,3 +27,7 @@ Media URL:
 - `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner-1.jpg` — current published hero
 - `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg` — previous revision
 - `Aug21piratebanner2.jpg` — earlier hero (kept for reference)
+
+## Mobile event details block
+
+A Group block (`pirate-bash-event-details`) sits between the hero and Featured Categories with the event title, address, date/time, and details so the info stays readable when the banner image crops on mobile.
