@@ -11,17 +11,18 @@ Homepage hero banner update for [trcannabis.ca](https://trcannabis.ca/).
 
 ## Live site changes (WordPress)
 
-Published directly in WordPress admin on the Home front page (ID `77414`):
+Published on the Home front page (ID `77414`) Cover block (`hero-section`):
 
-1. Uploaded media: `Aug21piratebanner2.jpg` (Media Library; served as `Aug21piratebanner2-scaled.jpg`)
-2. Replaced the Cover block (`hero-section`) background image
-3. Removed the previous overlay text (“WELCOME TO TWISTED ROOTS”) and “SHOP NOW” button so the flyer is the hero
-4. Set image alt text for accessibility
+1. Current hero media: `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg` (1537×864)
+2. Previous hero media (replaced): `Aug21piratebanner2.jpg`
+3. Overlay text removed so the flyer is the hero
+4. Alt text set for the event details
 
 Media URL:
 
-`https://trcannabis.ca/wp-content/uploads/2026/08/Aug21piratebanner2-scaled.jpg`
+`https://trcannabis.ca/wp-content/uploads/2026/08/Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg`
 
-## Repo asset
+## Repo assets
 
-`Aug21piratebanner2.jpg` — copy of the published hero banner for reference.
+- `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg` — current published hero
+- `Aug21piratebanner2.jpg` — previous hero (kept for reference)
