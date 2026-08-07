@@ -13,16 +13,17 @@ Homepage hero banner update for [trcannabis.ca](https://trcannabis.ca/).
 
 Published on the Home front page (ID `77414`) Cover block (`hero-section`):
 
-1. Current hero media: `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg` (1537×864)
-2. Previous hero media (replaced): `Aug21piratebanner2.jpg`
+1. Current hero media: `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner-1.jpg` (1537×864)
+2. Previous heroes (replaced): `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg`, `Aug21piratebanner2.jpg`
 3. Overlay text removed so the flyer is the hero
 4. Alt text set for the event details
 
 Media URL:
 
-`https://trcannabis.ca/wp-content/uploads/2026/08/Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg`
+`https://trcannabis.ca/wp-content/uploads/2026/08/Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner-1.jpg`
 
 ## Repo assets
 
-- `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg` — current published hero
-- `Aug21piratebanner2.jpg` — previous hero (kept for reference)
+- `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner-1.jpg` — current published hero
+- `Pirate-Bash-Pop-UP-Event-Aug-21st-2026-Banner.jpg` — previous revision
+- `Aug21piratebanner2.jpg` — earlier hero (kept for reference)
