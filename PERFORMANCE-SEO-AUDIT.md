@@ -33,7 +33,7 @@ Key baseline issues:
 5. Hero cover uses `loading="eager"`; WP also applies LCP `fetchpriority` on render
 
 ### SEO
-1. Homepage **H1** added: `Twisted Roots Cannabis — Oshawa Dispensary` (placed above Pirate Bash block)
+1. Homepage H1 was briefly added for SEO, then **removed on request** (it showed as unwanted text/white bar on mobile). Prefer a design-approved brand H1 later if needed.
 2. Improved product-category **“View All”** anchors to descriptive text where present
 3. SmartCrawl: **disabled URL Redirection module** (keeps the separate Redirection plugin as source of truth)
 4. SmartCrawl: hide generator meta + redundant canonical options confirmed on
