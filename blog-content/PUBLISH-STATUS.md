@@ -11,8 +11,8 @@ Published: 2026-08-12
 - `/locations/oshawa/` Durham serving section + Learn/Blog links
 
 ## Manual leftover (optional)
-- Delete empty legacy category **Blog** (id 1) if still present (API lacked delete permission)
-- Breeze full purge if cache looks stale
+- ~~Delete empty Blog category~~ **done** (default category retargeted to Education)
+- ~~Breeze purge~~ **done**
 
 ## Verify
 - https://trcannabis.ca/blog/
