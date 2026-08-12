@@ -18,3 +18,7 @@ Published: 2026-08-12
 - https://trcannabis.ca/blog/
 - https://trcannabis.ca/education/
 - https://trcannabis.ca/category/education/
+
+## Follow-up published (2026-08-12)
+- Cornerstone post: https://trcannabis.ca/oshawa-cannabis-dispensary-guide/
+- Linked from Learn hub + Oshawa location; Breeze purged again
