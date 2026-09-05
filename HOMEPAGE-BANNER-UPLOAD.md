@@ -4,10 +4,13 @@
 - File: `assets/Twisted-Roots-Homepage-Banner-Collage.jpg`
 - Dimensions: 2528×784 (wide hero collage)
 
-## Target
-- Page: Home (`post=77414`)
-- Replace current Cover/hero image (Pirate Bash banner) with this collage
-- Purge Breeze after publish
+## Live deployment (2026-09-05)
+- Media ID: `108997`
+- URL: https://trcannabis.ca/wp-content/uploads/2026/09/Twisted-Roots-Homepage-Banner-Collage.jpg
+- Homepage Cover block on page `77414` updated via WP REST API (Application Password “Curson Banner”)
+- Replaced Pirate Bash image (`108558`)
+- Verified live: https://trcannabis.ca/ hero `src` points at the collage
 
-## Status
-Blocked on WordPress admin authentication (stored `WORDPRESS_USERNAME` / `WORDPRESS_PASSWORD` return 401 / login page does not accept session). Need updated WP credentials or Application Password to complete upload.
+## Notes
+- Pirate Bash event-details group below the Cover was left in place
+- If Breeze still shows a stale banner for some visitors, purge cache in wp-admin → Breeze
