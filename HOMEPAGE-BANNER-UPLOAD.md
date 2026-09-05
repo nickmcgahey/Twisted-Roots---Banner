@@ -12,5 +12,6 @@
 - Verified live: https://trcannabis.ca/ hero `src` points at the collage
 
 ## Notes
-- Pirate Bash event-details group below the Cover was left in place
+- Pirate Bash event-details group below the Cover was removed (2026-09-05)
+- Cover alt text updated to store collage copy
 - If Breeze still shows a stale banner for some visitors, purge cache in wp-admin → Breeze
